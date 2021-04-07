@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-draft: true
 ---
 
 My name is Clément Allavena, i'm 21 years old and i'm currently a Developper in CGI at Clermont-Ferrand for Michelin
