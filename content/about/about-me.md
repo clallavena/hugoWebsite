@@ -17,5 +17,4 @@ Being a passionate developers is not my full-time hobbies ! I enjoying much play
 
 I'm also a amateur photographer:
 
-![Annecy 2020](/static/img/DSC_0052-1.jpg)
-{{< image src="/static/img/DSC_0052-1.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/img/DSC_0052-1.jpg" alt="Annecy 2020" position="left" style="border-radius: 8px;" >}}
