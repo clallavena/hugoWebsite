@@ -18,3 +18,6 @@ Being a passionate developers is not my full-time hobbies ! I enjoying much play
 I'm also a amateur photographer:
 
 {{< image src="/img/DSC_0052-1.jpg" alt="Annecy 2020" position="left" style="border-radius: 8px;" >}}
+
+---------
+I like play music as well, I play Bass. I'm also a home brewer
