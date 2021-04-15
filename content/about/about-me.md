@@ -8,9 +8,9 @@ My name is Clément Allavena, i'm 21 years old and i'm currently a Developper in
 Hobbies
 ---------
 
-Being a passionate developers is not my full-time hobbies ! I enjoying much playing sport such as:
+Being a passionate developer is not my full-time hobby ! I enjoy playing sport such as:
 - Hiking
-- Climbing (Not that good but i like very much; my grade: 6B-6C in indoor about 6B in rock climbing)
+- Climbing (Not that good but i really enjoy it; my grade: 6B-6C in indoor about 6B in rock climbing)
 - Riding
 - Fighting (MMA and BJJ for 2 years, Taekwondo for 7 years)
 - Running
